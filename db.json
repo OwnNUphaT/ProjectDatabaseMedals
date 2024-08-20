@@ -191,4 +191,129 @@
         },
         {
             "Alpha2": "GB",
-            "goldMedals
+            "goldMedals": [
+                {
+                    "amount": 9,
+                    "sport": ["cycling", "rowing", "athletics", "boxing"]
+                }
+            ],
+            "silverMedals": [
+                {
+                    "amount": 6,
+                    "sport": ["fencing", "gymnastics", "tennis"]
+                }
+            ],
+            "bronzeMedals": [
+                {
+                    "amount": 7,
+                    "sport": ["diving", "shooting", "swimming"]
+                }
+            ]
+        },
+        {
+            "Alpha2": "JP",
+            "goldMedals": [
+                {
+                    "amount": 10,
+                    "sport": ["judo", "wrestling", "gymnastics", "swimming"]
+                }
+            ],
+            "silverMedals": [
+                {
+                    "amount": 5,
+                    "sport": ["athletics", "badminton", "table tennis"]
+                }
+            ],
+            "bronzeMedals": [
+                {
+                    "amount": 6,
+                    "sport": ["boxing", "weightlifting", "volleyball"]
+                }
+            ]
+        },
+        {
+            "Alpha2": "MX",
+            "goldMedals": [
+                {
+                    "amount": 3,
+                    "sport": ["diving", "taekwondo", "boxing"]
+                }
+            ],
+            "silverMedals": [
+                {
+                    "amount": 2,
+                    "sport": ["football", "athletics"]
+                }
+            ],
+            "bronzeMedals": [
+                {
+                    "amount": 5,
+                    "sport": ["archery", "weightlifting", "equestrian"]
+                }
+            ]
+        },
+        {
+            "Alpha2": "FR",
+            "goldMedals": [
+                {
+                    "amount": 7,
+                    "sport": ["fencing", "judo", "athletics", "cycling"]
+                }
+            ],
+            "silverMedals": [
+                {
+                    "amount": 5,
+                    "sport": ["swimming", "tennis", "boxing"]
+                }
+            ],
+            "bronzeMedals": [
+                {
+                    "amount": 6,
+                    "sport": ["football", "handball", "basketball"]
+                }
+            ]
+        },
+        {
+            "Alpha2": "IT",
+            "goldMedals": [
+                {
+                    "amount": 6,
+                    "sport": ["fencing", "swimming", "cycling", "shooting"]
+                }
+            ],
+            "silverMedals": [
+                {
+                    "amount": 4,
+                    "sport": ["athletics", "rowing", "volleyball"]
+                }
+            ],
+            "bronzeMedals": [
+                {
+                    "amount": 5,
+                    "sport": ["football", "gymnastics", "wrestling"]
+                }
+            ]
+        },
+        {
+            "Alpha2": "ZA",
+            "goldMedals": [
+                {
+                    "amount": 3,
+                    "sport": ["athletics", "swimming", "rugby"]
+                }
+            ],
+            "silverMedals": [
+                {
+                    "amount": 2,
+                    "sport": ["boxing", "cycling"]
+                }
+            ],
+            "bronzeMedals": [
+                {
+                    "amount": 4,
+                    "sport": ["hockey", "wrestling", "rowing"]
+                }
+            ]
+        }
+    ]
+}
